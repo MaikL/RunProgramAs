@@ -54,7 +54,7 @@ Ensure the selected program's directory has appropriate read permissions.
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the GPL 3.0 License. See the LICENSE.md file for details.
 
 ## Acknowledgments
 Windows Forms for GUI components
