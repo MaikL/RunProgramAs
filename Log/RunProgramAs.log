@@ -1,85 +1,35 @@
-2025-05-02 17:43:35 [INFO] local system language de-DE.TwoLetterISOLanguageName
-2025-05-02 17:43:35 [INFO] matched locale de
-2025-05-02 17:43:35 [INFO] Initializing language...
-2025-05-02 17:43:35 [INFO] Matched locale: de
-2025-05-02 17:43:35 [INFO] Update-UI Language: de
-2025-05-02 17:43:38 [INFO] Updating UI to DE
-2025-05-02 17:43:40 [INFO] Update-UI Language: en
-2025-05-02 17:43:43 [INFO] Updating UI to DE
-2025-05-02 17:43:58 [INFO] Updating UI to DE
-2025-05-02 17:43:58 [INFO] Update-UI Language: en
-2025-05-02 17:43:59 [INFO] Updating UI to DE
-2025-05-02 17:44:00 [INFO] Update-UI Language: en
-2025-05-02 17:45:49 [INFO] local system language de-DE.TwoLetterISOLanguageName
-2025-05-02 17:45:49 [INFO] matched locale de
-2025-05-02 17:45:49 [INFO] Initializing language...
-2025-05-02 17:45:49 [INFO] Matched locale: de
-2025-05-02 17:45:49 [INFO] Update-UI Language: de
-2025-05-02 17:45:56 [INFO] Update-UI Language: en
-2025-05-02 17:45:57 [INFO] Update-UI Language: de
-2025-05-02 17:45:59 [INFO] Update-UI Language: en
-2025-05-02 17:46:00 [INFO] Update-UI Language: de
-2025-05-02 18:27:51 [INFO] local system language de-DE.TwoLetterISOLanguageName
-2025-05-02 18:27:51 [INFO] matched locale de
-2025-05-02 18:27:51 [INFO] Initializing language...
-2025-05-02 18:27:51 [INFO] Matched locale: de
-2025-05-02 18:27:51 [INFO] Update-UI Language: de
-2025-05-02 18:29:29 [INFO] local system language de-DE.TwoLetterISOLanguageName
-2025-05-02 18:29:29 [INFO] matched locale de
-2025-05-02 18:29:29 [INFO] Initializing language...
-2025-05-02 18:29:29 [INFO] Matched locale: de
-2025-05-02 18:29:29 [INFO] Update-UI Language: de
-2025-05-02 18:31:34 [INFO] local system language de-DE.TwoLetterISOLanguageName
-2025-05-02 18:31:34 [INFO] matched locale de
-2025-05-02 18:31:34 [INFO] Initializing language...
-2025-05-02 18:31:34 [INFO] Matched locale: de
-2025-05-02 18:31:34 [INFO] Update-UI Language: de
-2025-05-02 18:34:20 [INFO] local system language de-DE.TwoLetterISOLanguageName
-2025-05-02 18:34:20 [INFO] matched locale de
-2025-05-02 18:34:21 [INFO] Initializing language...
-2025-05-02 18:34:21 [INFO] Matched locale: de
-2025-05-02 18:34:21 [INFO] Update-UI Language: de
-2025-05-02 18:36:07 [INFO] local system language de-DE.TwoLetterISOLanguageName
-2025-05-02 18:36:07 [INFO] matched locale de
-2025-05-02 18:36:07 [INFO] Initializing language...
-2025-05-02 18:36:07 [INFO] Matched locale: de
-2025-05-02 18:36:07 [INFO] Update-UI Language: de
-2025-05-02 18:36:38 [INFO] local system language de-DE.TwoLetterISOLanguageName
-2025-05-02 18:36:38 [INFO] matched locale de
-2025-05-02 18:36:38 [INFO] Initializing language...
-2025-05-02 18:36:38 [INFO] Matched locale: de
-2025-05-02 18:36:38 [INFO] Update-UI Language: de
-2025-05-02 18:37:30 [INFO] local system language de-DE.TwoLetterISOLanguageName
-2025-05-02 18:37:31 [INFO] matched locale de
-2025-05-02 18:37:31 [INFO] Initializing language...
-2025-05-02 18:37:31 [INFO] Matched locale: de
-2025-05-02 18:37:31 [INFO] Update-UI Language: de
-2025-05-02 18:37:43 [INFO] Update-UI Language: en
-2025-05-02 18:38:13 [INFO] Update-UI Language: en
-2025-05-02 18:38:14 [INFO] Update-UI Language: de
-2025-05-02 18:38:15 [INFO] Update-UI Language: en
-2025-05-02 18:42:17 [INFO] local system language de-DE.TwoLetterISOLanguageName
-2025-05-02 18:42:17 [INFO] matched locale de
-2025-05-02 18:42:18 [INFO] Initializing language...
-2025-05-02 18:42:18 [INFO] Matched locale: de
-2025-05-02 18:42:18 [INFO] Update-UI Language: de
-2025-05-02 18:42:20 [INFO] Update-UI Language: en
-2025-05-02 18:43:23 [INFO] local system language de-DE.TwoLetterISOLanguageName
-2025-05-02 18:43:23 [INFO] matched locale de
-2025-05-02 18:43:23 [INFO] Initializing language...
-2025-05-02 18:43:23 [INFO] Matched locale: de
-2025-05-02 18:43:23 [INFO] Update-UI Language: de
-2025-05-02 18:43:37 [INFO] Update-UI Language: en
-2025-05-02 18:52:52 [INFO] local system language de-DE.TwoLetterISOLanguageName
-2025-05-02 18:52:52 [INFO] matched locale de
-2025-05-02 18:52:53 [INFO] Initializing language...
-2025-05-02 18:52:53 [INFO] Matched locale: de
-2025-05-02 18:52:53 [INFO] Update-UI Language: de
-2025-05-02 18:53:04 [INFO] Update-UI Language: en
-2025-05-02 18:53:59 [INFO] local system language de-DE.TwoLetterISOLanguageName
-2025-05-02 18:53:59 [INFO] matched locale de
-2025-05-02 18:53:59 [INFO] Initializing language...
-2025-05-02 18:53:59 [INFO] Matched locale: de
-2025-05-02 18:53:59 [INFO] Update-UI Language: de
-2025-05-02 18:54:05 [INFO] User: {fgc-px\max.mustermann} can read {C:\Users\maik.luedeke\source\repos\GM4ManagerWPF\bin\Debug\net8.0-windows}
-2025-05-02 18:54:05 [DEBUG] Username = fgc-px\max.mustermann
+2025-05-02 23:55:14 [INFO] Starting RunProgramAs GUI
+2025-05-02 23:55:14 [DEBUG] lastButtonPosition: 360
+2025-05-02 23:55:14 [INFO] Initialize Language
+2025-05-02 23:55:14 [INFO] Initializing language...
+2025-05-02 23:55:14 [INFO] Matched locale: de
+2025-05-02 23:55:14 [INFO] Update-UI Language: de
+2025-05-02 23:55:14 [INFO] Adding Events
+2025-05-02 23:55:17 [INFO] Language button clicked: en
+2025-05-02 23:55:17 [INFO] Update-UI Language: en
+2025-05-02 23:55:20 [INFO] Language button clicked: fr
+2025-05-02 23:55:20 [INFO] Update-UI Language: fr
+2025-05-02 23:55:22 [INFO] Language button clicked: es
+2025-05-02 23:55:22 [INFO] Update-UI Language: es
+2025-05-02 23:55:23 [INFO] Language button clicked: de
+2025-05-02 23:55:23 [INFO] Update-UI Language: de
+2025-05-02 23:55:24 [INFO] User: {fgc-px\max.mustermann} can read {C:\Users\maik.luedeke\source\repos\GM4ManagerWPF\bin\Debug\net8.0-windows}
+2025-05-02 23:55:24 [DEBUG] Username = fgc-px\max.mustermann
+2025-05-02 23:55:51 [INFO] Starting RunProgramAs GUI
+2025-05-02 23:55:51 [DEBUG] lastButtonPosition: 360
+2025-05-02 23:55:51 [INFO] Initialize Language
+2025-05-02 23:55:51 [INFO] Initializing language...
+2025-05-02 23:55:51 [INFO] Matched locale: de
+2025-05-02 23:55:51 [INFO] Update-UI Language: de
+2025-05-02 23:55:52 [INFO] Adding Events
+2025-05-02 23:55:52 [INFO] Adding Menu
+2025-05-02 23:55:53 [INFO] User: {fgc-px\max.mustermann} can read {C:\Users\maik.luedeke\source\repos\GM4ManagerWPF\bin\Debug\net8.0-windows}
+2025-05-02 23:55:53 [DEBUG] Username = fgc-px\max.mustermann
+2025-05-02 23:56:11 [INFO] Language button clicked: en
+2025-05-02 23:56:11 [INFO] Update-UI Language: en
+2025-05-02 23:56:15 [INFO] Language button clicked: fr
+2025-05-02 23:56:15 [INFO] Update-UI Language: fr
+2025-05-02 23:56:17 [INFO] Language button clicked: es
+2025-05-02 23:56:17 [INFO] Update-UI Language: es
+2025-05-02 23:56:18 [INFO] Language button clicked: de
+2025-05-02 23:56:18 [INFO] Update-UI Language: de
