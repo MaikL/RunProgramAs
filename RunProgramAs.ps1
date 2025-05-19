@@ -535,7 +535,6 @@ function Add-Events {
 
     # add new credentials
     $guiElements.btnNewCreds.Add_Click({
-            $form.Enabled = $false  # disable form
             try {
                 $global:credentialStore = Save-Credentials
                 $guiElements.lblStatus.ForeColor = 'Blue'
@@ -543,7 +542,7 @@ function Add-Events {
 
                 # update ComboBox
                 $guiElements.cmbCredentials.Items.Clear()
-                Update-CredentialComboBox
+                Update-CredentialComboBox -guiElements $guiElements
                 $guiElements.cmbCredentials.SelectedItem = ($global:credentialStore.Keys | Select-Object -Last 1)
                 $global:creds = $global:credentialStore[$guiElements.cmbCredentials.SelectedItem]
             }
